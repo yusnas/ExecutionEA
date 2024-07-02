@@ -4,8 +4,8 @@
 //|                        Copyright 2015, MetaQuotes Software Corp. |
 //|                                             https://www.mql5.com |
 //+------------------------------------------------------------------+
-#property copyright "Rodolphe Ahmad"
-#property link      "https://www.mql5.com/en/users/rodoboss"
+#property copyright "Nasirudeen Yusuf"
+#property link      "https://www.mql5.com/en/users/yusnas"
 #property version   "4.00"
 #property strict
 //+------------------------------------------------------------------+
