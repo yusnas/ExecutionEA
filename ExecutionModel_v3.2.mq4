@@ -1,10 +1,10 @@
 //+------------------------------------------------------------------+
-//|                                         stochastic-automated.mq4 |
-//|                                  Copyright 2016, Mohammad Soubra |
-//|                         https://www.mql5.com/en/users/soubra2003 |
+//|                                         ExecutionModel.mq4 |
+//|                                  Copyright 2016, NasirudeenYusuf |
+//|                         https://www.mql5.com/en/users/yusnas |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2016, Mohammad Soubra"
-#property link      "https://www.mql5.com/en/job/new?prefered=soubra2003"
+#property copyright "Copyright 2016, Nasirudeen Yusuf"
+#property link      "https://www.mql5.com/en/job/new?prefered=yusnas"
 #property version   "1.00"
 #property strict
 
